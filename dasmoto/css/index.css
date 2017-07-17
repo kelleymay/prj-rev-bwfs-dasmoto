@@ -1,0 +1,49 @@
+body {
+  font-family: Helvetica;
+  }
+  h3 {
+    color: #000;
+  }
+strong {
+  font-weight: bold;
+  color: blue;
+}
+.header {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("/Users/kelleybyrne/Documents/Web Development/dasmoto/resources/pattern.jpg");
+    margin-top: 55px;
+    margin-bottom: 55px;
+  }
+.brushes-header {
+  background-color: mediumspringgreen;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.brushes-content {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.frames-header {
+  background-color: lightcoral;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.frames-content {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.paint-header {
+  background-color: skyblue;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.paint-content {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
